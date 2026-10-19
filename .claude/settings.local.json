@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& .venv\\\\Scripts\\\\python.exe -c \"import google.genai, pyaudio, pyttsx3, cv2, PIL, win32gui; print\\('deps OK'\\)\")",
+      "PowerShell(Get-Process -Id 3244 -ErrorAction SilentlyContinue)",
+      "PowerShell(Stop-Process -Id 3244 -Force -ErrorAction SilentlyContinue -Confirm:$false)",
+      "PowerShell(& .venv\\\\Scripts\\\\python.exe -m py_compile src\\\\main_windows.py; echo \"exit=$LASTEXITCODE\")",
+      "PowerShell($p=\"C:\\\\Users\\\\tm501\\\\Desktop\\\\Talk-Screen-AI-Windows-main\\\\assistant_memory.json\"; $j=Get-Content $p -Raw | ConvertFrom-Json; \"=== KEY POINTS ===\"; $j.key_points | ForEach-Object { \"[$\\($_.ts\\)] $\\($_.content\\)\" }; \"=== OBS KINDS ===\"; $j.observations | Group-Object kind | ForEach-Object { \"$\\($_.Name\\): $\\($_.Count\\)\" })",
+      "PowerShell(& \"C:\\\\Users\\\\tm501\\\\Desktop\\\\Talk-Screen-AI-Windows-main\\\\.venv\\\\Scripts\\\\python.exe\" -c \"import google.genai as g; print\\('genai', g.__version__\\); from google.genai import models; print\\([m for m in dir\\(models.AsyncModels\\) if 'generate' in m]\\)\")",
+      "PowerShell($p=\"C:\\\\Users\\\\tm501\\\\Desktop\\\\Talk-Screen-AI-Windows-main\\\\assistant_memory.json\"; $j=Get-Content $p -Raw | ConvertFrom-Json; \"=== FIRST 3 ENVIRONMENT ===\"; $j.observations | Where-Object {$_.kind -eq 'environment'} | Select-Object -First 3 | ForEach-Object { \"[$\\($_.ts\\)] LEN=$\\($_.content.Length\\) :: $\\($_.content.Substring\\(0,[Math]::Min\\(400,$_.content.Length\\)\\)\\)`n---\" }; \"=== LAST 2 VOICE_DIALOG ===\"; $j.observations | Where-Object {$_.kind -eq 'voice_dialog'} | Select-Object -Last 2 | ForEach-Object { \"[$\\($_.ts\\)] $\\($_.content\\)`n---\" })",
+      "PowerShell(& .venv\\\\Scripts\\\\python.exe \"C:\\\\Users\\\\tm501\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-tm501-Desktop-Talk-Screen-AI-Windows-main\\\\7e7552ab-b482-4ad0-9460-81656e9f441f\\\\scratchpad\\\\probe_sdk.py\")",
+      "PowerShell(python -c \"import google.genai, inspect, os; print\\(google.genai.__version__\\); print\\(os.path.dirname\\(inspect.getfile\\(google.genai\\)\\)\\)\")"
+    ]
+  }
+}

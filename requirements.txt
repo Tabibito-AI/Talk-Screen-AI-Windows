@@ -1,0 +1,9 @@
+google-genai>=0.7.0
+python-dotenv>=1.0.0
+pyaudio>=0.2.14
+pyttsx3>=2.90
+numpy>=1.24.0
+opencv-python>=4.10.0
+Pillow>=10.0.0
+pywin32>=306; platform_system == "Windows"  # Windows専用のスクリーンキャプチャに必要
+mss>=9.0.1  # クロスプラットフォームのスクリーンキャプチャライブラリ（Windows対応）

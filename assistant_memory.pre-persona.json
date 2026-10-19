@@ -1,0 +1,468 @@
+{
+  "assistant_profile": {
+    "name": "RoomResearchAssistant",
+    "mission": "Support a PhD student with focus, planning, and well-being."
+  },
+  "observations": [
+    {
+      "ts": "2026-08-24T18:52:47Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の 10 時からの指導教員との面談だけど、10 時半からに変更になったんだった。メモしといてくれる？\nAssistant: I can't write to your calendar directly, but I've noted that your meeting tomorrow is moved to 10:30 AM. Since you have a bit extra time tomorrow morning, do you want to outline the buyer's information structure or the seller's payoff setup first?"
+    },
+    {
+      "ts": "2026-08-24T18:53:10Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、あとさ、明日の午後4時からオンラインセミナーあるから、それリマインドしてほしいな。\nAssistant: I can't set automatic timers or pop-up alerts for you, but I've noted down your 4:00 PM online seminar for tomorrow. It's almost 8:00 PM now—are you planning to wrap things up in the next hour?"
+    },
+    {
+      "ts": "2026-08-24T18:53:44Z",
+      "kind": "voice_dialog",
+      "content": "User: ちょっとお腹すいてきたからさ、夜ご飯食べてこようかなと思ってるんだけど、この辺でオススメのお店ってある？\nAssistant: It makes complete sense to step away when hunger sets in after working hard. Since I don't know your exact location, I can't recommend specific local spots, but taking a proper dinner break will recharge your energy. Are you planning to pick out that foundational mechanism design paper once you get back?"
+    },
+    {
+      "ts": "2026-08-24T18:54:19Z",
+      "kind": "voice_dialog",
+      "content": "User: うーん、まあいっか。じゃあ、ご飯行ってきまーす。\nAssistant: Enjoy your dinner! Take a well-deserved break and refuel after working hard tonight. Catch you when you're back."
+    },
+    {
+      "ts": "2026-08-24T18:54:29Z",
+      "kind": "voice_dialog",
+      "content": "User: ただいま。ご飯食べて帰ってきたよ。\nAssistant: Welcome back! I hope you had a good meal and feel recharged."
+    },
+    {
+      "ts": "2026-08-24T18:55:14Z",
+      "kind": "voice_dialog",
+      "content": "User: えーっと、明日やることって何があったっけ？\nAssistant: You look nicely refreshed after getting dinner! Tomorrow, you have your supervisor meeting at 10:30 AM. After that, you planned to draft an outline for your mechanism design paper and read one or two related papers. Lastly, you have an online seminar at 4:00 PM."
+    },
+    {
+      "ts": "2026-08-24T18:55:42Z",
+      "kind": "voice_dialog",
+      "content": "User: えっと、その後ってなんかあったっけ？\nAssistant: Right, after reading a couple of papers, you have an online seminar at 4:00 PM. Speaking of your goals, when is the submission deadline for the target conference you want to present this paper at?"
+    },
+    {
+      "ts": "2026-08-24T18:56:07Z",
+      "kind": "voice_dialog",
+      "content": "User: 締め切りは、11月末くらいだったかな。\nAssistant: End of November gives you three solid months to bring this mechanism design paper to life. That is plenty of time to get your outline drafted tomorrow and build real momentum. Are you aiming to have the core trading model sketched out by the end of this week?"
+    },
+    {
+      "ts": "2026-08-24T18:56:30Z",
+      "kind": "voice_dialog",
+      "content": "User: んー、そうだね。じゃあ、明日のミーティングでは、どんなことを聞けばいいかな？\nAssistant: It looks quiet and peaceful in the office tonight. You could ask your supervisor whether a single-seller, single-buyer model is a solid prototype for your mechanism design paper. It would also be great to get their thoughts on key literature you shouldn't miss."
+    },
+    {
+      "ts": "2026-08-24T18:57:36Z",
+      "kind": "voice_dialog",
+      "content": "User: 他にはどうかな？\nAssistant: You're leaning way back in your chair tonight. Besides the prototype, you could ask your supervisor for recommended reading on bilateral trade or how to structure your core theoretical assumptions. Keeping the focus on those key modeling choices will make your meeting really productive."
+    },
+    {
+      "ts": "2026-08-24T18:59:20Z",
+      "kind": "voice_dialog",
+      "content": "User: なるほどね。じゃあ、明日聞いてみるよ。\nAssistant: Sounds like a solid plan for your meeting at 10:30. Getting your supervisor's feedback on that model will give you a great foundation when you sit down to draft your outline right after."
+    },
+    {
+      "ts": "2026-08-24T19:00:08Z",
+      "kind": "voice_dialog",
+      "content": "User: ありがとう。なんか、気持ちが楽になったよ。\nAssistant: I'm really glad to hear that. Having a clear plan usually takes away a lot of the stress. You're in a great position to start fresh tomorrow."
+    },
+    {
+      "ts": "2026-08-24T19:00:42Z",
+      "kind": "voice_dialog",
+      "content": "User: 明日、ミーティングが終わったら、論文のアウトラインから作ろうかなと思ってるんだけど、どういう順番で作っていくのがいいかな？\nAssistant: Since you're locking in mechanism design as your core topic, starting with the theoretical model section is usually best. Map out your core setup and assumptions first, then frame the main research questions around them. Save the introduction and literature review for last—it's much easier to frame the story once you know where your model lands."
+    },
+    {
+      "ts": "2026-08-24T19:01:12Z",
+      "kind": "voice_dialog",
+      "content": "User: 論文のアウトラインから作ろうかなと思ってるんだけど、どういう順番で作っていくのがいいかな？\nAssistant: Since mechanism design is your main focus, starting with the theoretical model section works best. Map out your core setup and assumptions first, then move to the equilibrium results, saving the introduction for last. That way your structure stays anchored directly around your model."
+    },
+    {
+      "ts": "2026-08-24T19:01:39Z",
+      "kind": "voice_dialog",
+      "content": "User: 論文のアウトラインから作ろうかなと思ってるんだけど、どういう順番で作っていくのがいいかな？\nAssistant: Starting with your theoretical model section gives you the strongest foundation. Map out your core setup, agents, and assumptions first, then sketch the main results before filling in the introduction and literature review. This keeps your narrative tightly anchored to your core theoretical contribution."
+    },
+    {
+      "ts": "2026-08-24T19:02:15Z",
+      "kind": "voice_dialog",
+      "content": "User: うん、まあ、今日はもう8時だし、これくらいにして帰ろうかな。\nAssistant: Sounds like a great idea! Wrapping up at eight after picking your topic today is a solid win. Go get some dinner and rest up for tomorrow."
+    },
+    {
+      "ts": "2026-08-24T19:03:12Z",
+      "kind": "voice_dialog",
+      "content": "User: じゃあね、バイバイ\nAssistant: Have a great evening! Getting a full rest tonight will give you a fresh start on that theoretical outline tomorrow."
+    },
+    {
+      "ts": "2026-08-24T19:03:36Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ、この部屋のエアコンって消した方がいいのかな？\nAssistant: Turning off the air conditioner when you leave is usually best practice to save energy overnight. You can switch it off right at the wall unit before you head out."
+    },
+    {
+      "ts": "2026-08-24T19:04:07Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、なんか明日のミーティングの準備もしなきゃいけない気がしてきたな。\nAssistant: You've already accomplished a lot today by setting mechanism design as your topic. Since your meeting tomorrow was rescheduled to 10:30 AM, you'll have plenty of time tomorrow morning to quickly pull your thoughts together before heading in."
+    },
+    {
+      "ts": "2026-08-24T19:04:41Z",
+      "kind": "voice_dialog",
+      "content": "User: んー、なんか少しだけ準備してから帰ろうかな。\nAssistant: You look focused looking down at your desk, even though it's late. Spending just five minutes on quick prep will definitely make tomorrow morning smoother. Would listing two or three brief bullet points for your meeting agenda be an easy place to stop?"
+    },
+    {
+      "ts": "2026-08-24T19:05:11Z",
+      "kind": "voice_dialog",
+      "content": "User: やっぱり明日早起きして準備することにして、今日はもう帰ろう。\nAssistant: That is a wise call. Pushing through late at night rarely yields great work, so heading home now is the right move. Get some solid rest tonight and spend twenty fresh minutes on your meeting agenda first thing in the morning."
+    },
+    {
+      "ts": "2026-08-24T19:05:38Z",
+      "kind": "voice_dialog",
+      "content": "User: じゃあ、今日は帰ります。お疲れ様でした。\nAssistant: A good night's sleep will sharpen your focus for tomorrow morning's prep session. You made great progress today finalizing your mechanism design topic. Pack up your bag now and leave the research at the desk so you can fully recharge tonight."
+    },
+    {
+      "ts": "2026-08-24T19:05:49Z",
+      "kind": "voice_dialog",
+      "content": "User: それじゃ、お疲れ様です。\nAssistant: Have a great evening, Tomoto. Get some good rest tonight."
+    },
+    {
+      "ts": "2026-08-24T19:07:16Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。最後に画面のロックだけしてもらえますか？\nAssistant: I can't lock your screen for you since I don't have control over your computer. You'll need to press your system shortcut to lock it yourself before heading out."
+    },
+    {
+      "ts": "2026-08-24T19:07:42Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、ロックですね。了解です。自分でロックします。じゃあね。\nAssistant: You look ready to head out for the night. Have a safe trip home! Before you dive into reading tomorrow, is there already clear empirical evidence linking school inspection grades directly to later earnings, or is that still a major gap in the UK literature?"
+    },
+    {
+      "ts": "2026-08-24T19:08:27Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、うん。一応その学校訪問の論文はもういくつか目星をつけてあります。\nAssistant: That is a great head start on the UK education project. Having those inspection papers lined up now will make your reading session after tomorrow's meeting much more efficient."
+    },
+    {
+      "ts": "2026-08-24T19:09:01Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、うん。それでね、あのー、タイマーだけ設定してもらってもいいですか？\nAssistant: I can't set a timer for you because I lack access to your device's clock. You'll need to set one on your phone or computer directly. I can always give you a verbal nudge when we talk, but for a proper alarm, your phone is your best bet tonight."
+    },
+    {
+      "ts": "2026-08-24T19:10:02Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の朝の打ち合わせの資料だけ印刷しておいてもらえますか？\nAssistant: I understand wanting to have everything ready for tomorrow, but I can't print documents for you since I don't have control over your computer or printer. You'll need to send them to print yourself. It's past eight PM already, so once you hit print, you're all set to head home."
+    },
+    {
+      "ts": "2026-08-24T19:10:17Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の朝の打ち合わせ何時だっけ？\nAssistant: Ah, good to double-check. Your meeting with your supervisor tomorrow morning was rescheduled to 10:30 AM."
+    },
+    {
+      "ts": "2026-08-24T19:11:00Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の、えっと、オンラインセミナーって何時だっけ？\nAssistant: Your online seminar is scheduled for 4:00 PM tomorrow. You've been checking your timetable a lot tonight—are you planning to call it a night once your schedule is all sorted out?"
+    },
+    {
+      "ts": "2026-08-24T19:12:22Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。他になんか明日予定あったっけ？\nAssistant: That's everything on your fixed schedule: your 10:30 AM meeting and the 4:00 PM seminar. Besides those, you just planned to outline your paper and read a couple of studies. Would blocking out dedicated focus sessions tomorrow help keep distractions at bay?"
+    },
+    {
+      "ts": "2026-08-24T19:12:50Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の準備って何かしておくことあったっけ？\nAssistant: Earlier you mentioned needing meeting documents printed, so printing those yourself is the main thing. Beyond that, you planned to draft your UK school inspections outline after your 10:30 AM meeting. You've been leaning over your desk for quite a while tonight—how are you pacing yourself for that late November conference deadline?"
+    },
+    {
+      "ts": "2026-08-24T19:13:13Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。発表っていつだっけ？\nAssistant: Your target deadline for the conference submission is around the end of November. You still have a solid few months to get your outline and draft together. Is there a co-author or colleague you're thinking of sharing the draft with once it's ready?"
+    },
+    {
+      "ts": "2026-08-24T19:13:53Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の、えっと、論文の概要の作成ってどこでやるんだっけ？\nAssistant: It feels like you're trying to lock down your schedule. You planned to draft the outline right after your 10:30 AM meeting finishes, before your 4:00 PM seminar. Would a solid two-hour block right after lunch give you enough quiet focus time to work on it?"
+    },
+    {
+      "ts": "2026-08-24T19:14:37Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の準備って、えっと、何時頃からやるんだっけ？\nAssistant: You didn't set a specific time for printing your meeting documents, but doing it tonight or just before your 10:30 AM meeting tomorrow makes the most sense. It's already past 8:00 PM, so don't stay up too late getting ready."
+    },
+    {
+      "ts": "2026-08-24T19:17:13Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の論文の概要の作成って、何でやるんだっけ？\nAssistant: You're focusing on your UK education research, specifically looking at how school inspections impact early career earnings. Following up on your conference goal, getting that outline drafted right after your morning meeting will keep you right on track."
+    },
+    {
+      "ts": "2026-08-24T19:17:33Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の予習って何するんだっけ？\nAssistant: You planned to print out your meeting documents and review your notes on UK school inspections before meeting your supervisor at 10:30 AM. Would you like to organize those files right now so you're set for the morning?"
+    },
+    {
+      "ts": "2026-08-24T19:18:04Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の論文の概要の作成ってどうやってやるんだっけ？\nAssistant: You planned to start by drafting a table of contents right after your 10:30 AM meeting. Sketching core headings for UK inspection data, methodology, and earnings outcomes will create a solid structure before you read your papers. You've been leaning in deeply at your desk tonight, so jotting down main sections now could save time tomorrow."
+    },
+    {
+      "ts": "2026-08-24T19:18:29Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の論文の講読って何やるんだっけ？\nAssistant: You planned to read one or two of those UK school inspection papers right after drafting your outline tomorrow afternoon. Still deep in planning mode tonight, I see! Are there specific methodology questions from those papers you want to bring to your 10:30 meeting?"
+    },
+    {
+      "ts": "2026-08-24T19:18:50Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の論文の執筆って何やるんだっけ？\nAssistant: It sounds like you're eager to start drafting! Tomorrow's schedule actually centers on building your initial outline and reading key papers after your supervisor meeting, rather than diving into actual writing just yet."
+    },
+    {
+      "ts": "2026-08-24T19:21:22Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日のデータ処理って何やるんだっけ？\nAssistant: You actually don't have data processing scheduled for tomorrow—your main focus is your supervisor meeting at 10:30, drafting your outline, and reading papers. Would setting a firm cutoff time tonight help ensure you get enough rest before tomorrow's meeting?"
+    },
+    {
+      "ts": "2026-08-24T19:24:59Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の、研究室の掃除ってどうやってやるんだっけ？\nAssistant: You don't have lab cleaning scheduled for tomorrow. Your focus is your 10:30 supervisor meeting, drafting your outline, reading papers, and your 4:00 PM online seminar. Looks like you're trying to double-check all your tasks before wrapping up tonight!"
+    },
+    {
+      "ts": "2026-08-24T19:25:39Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日って何やるんだっけ？\nAssistant: You look like you might be getting tired tonight, Tomoto. Tomorrow you have your 10:30 AM supervisor meeting, followed by drafting your paper outline, reading two school inspection papers, and your 4:00 PM seminar. I suggest selecting which two papers to read before heading home tonight so you can dive right in."
+    },
+    {
+      "ts": "2026-08-24T19:26:05Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ。明日の、プログラミングって何やるんだっけ？\nAssistant: You don't have any programming scheduled for tomorrow. Your time is set for your 10:30 AM supervisor meeting, drafting your paper outline, reading two school inspection papers, and attending your 4:00 PM seminar. You look pretty tired right now, so consider wrapping up to get some rest."
+    },
+    {
+      "ts": "2026-09-26T10:48:33Z",
+      "kind": "voice_dialog",
+      "content": "User: Hello.\nAssistant: Hello Tomoto. It's good to see you looking focused today. I'm right here whenever you're ready to get started."
+    },
+    {
+      "ts": "2026-09-26T10:49:29Z",
+      "kind": "voice_dialog",
+      "content": "User: Which file should I do?\nAssistant: You currently have main.py open in your code editor right now. If you want to address the structured long-term memory redesign mentioned in your assistant side panel, that would involve assistant_memory.json or the memory handling files in src. Otherwise, main.py is your main script to focus on."
+    },
+    {
+      "ts": "2026-09-26T10:50:13Z",
+      "kind": "voice_dialog",
+      "content": "User: No, I want to input API key.\nAssistant: Earlier we were looking at main.py, where api_key is pulled from config settings. To input your API key, open the .env file listed in your file explorer on the left and set your key there."
+    },
+    {
+      "ts": "2026-09-26T10:50:45Z",
+      "kind": "voice_dialog",
+      "content": "User: Log off.\nAssistant: Touching back on your workstation request, I can't actually log off or control your computer for you. You'll need to lock it manually using your keyboard. I'm right here to help organize your research notes or paper outline whenever you get back."
+    },
+    {
+      "ts": "2026-09-26T10:52:08Z",
+      "kind": "voice_dialog",
+      "content": "User: 明日何時にどこで何があるんだっけ？\nAssistant: You have your rescheduled supervisor meeting at 10:30 AM tomorrow, followed by an online seminar at 4:00 PM. You look locked in and ready at your desk today. What main question do you want to raise with your supervisor about your school inspection paper?"
+    },
+    {
+      "ts": "2026-09-26T10:54:23Z",
+      "kind": "voice_dialog",
+      "content": "User: えーっと、明日やること何があるんだっけ？整理したいから、アイデアちょうだい。\nAssistant: Building on your plan to structure the paper, drafting a quick outline right after your 10:30 AM supervisor meeting would be ideal. You can map out your key sections before diving into those two related papers before your 4:00 PM seminar."
+    },
+    {
+      "ts": "2026-09-26T11:10:37Z",
+      "kind": "voice_dialog",
+      "content": "User: これ終わった後何しようかな\nAssistant: Following up on that outline, digging into those one or two papers on school inspections would be the logical next step before your 4 PM seminar. Unless a coffee break takes priority. Are we assuming your supervisor won't completely rewrite your plans at ten thirty?"
+    },
+    {
+      "ts": "2026-09-26T11:13:23Z",
+      "kind": "proactive",
+      "content": "Assistant opened with: Still working through those next steps? You're clearly deep in the zone, but remember to grab a bite since it's just past noon."
+    },
+    {
+      "ts": "2026-09-26T11:14:54Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、お腹減った。昼飯何しようかな。\nAssistant: It's just past noon, and you've been sitting focused at your desk for a good stretch. Stepping away for a proper hot meal or something quick nearby would give your eyes a restful break before you get back to mapping out your paper."
+    },
+    {
+      "ts": "2026-09-26T11:18:08Z",
+      "kind": "proactive",
+      "content": "Assistant opened with: A bowl of hot noodles or a quick sandwich would hit the spot. Are you leaning towards dining out or grabbing takeaway?"
+    },
+    {
+      "ts": "2026-09-26T11:23:24Z",
+      "kind": "voice_dialog",
+      "content": "User: んー、なんか、あったかいもん食べたいな。うどんかラーメンか。どっちがいいと思う？\nAssistant: A hot bowl of noodles sounds perfect right now. Go with udon—it is warming, lighter on the stomach, and won't leave you feeling sluggish for your afternoon work session."
+    },
+    {
+      "ts": "2026-09-26T11:26:58Z",
+      "kind": "proactive",
+      "content": "Assistant opened with: A steaming bowl of kitsune udon provides quick warmth, making it the perfect fuel for brainstorming your mechanism design setup this afternoon."
+    },
+    {
+      "ts": "2026-09-26T11:29:46Z",
+      "kind": "voice_dialog",
+      "content": "User: うどんかー、うどん食べられるとこ近くにあったっけなー？\nAssistant: You're still buried at your desk. I don't have access to local restaurant maps, so you'll need to check your phone to spot the nearest noodle bar. Don't use the search to procrastinate, though—did you finish organizing tomorrow's tasks first?"
+    },
+    {
+      "ts": "2026-09-26T11:33:22Z",
+      "kind": "proactive",
+      "content": "Assistant opened with: It's half past twelve, and you've been glued to that desk all morning. Push your chair back and step out for warm lunch so your mind stays sharp this afternoon."
+    },
+    {
+      "ts": "2026-09-26T11:35:47Z",
+      "kind": "voice_dialog",
+      "content": "User: まあいいや。とりあえずコンビニでも行くか。\nAssistant: A convenience run never fails. It gets you up and out into the fresh air for a bit, and you can still grab something warm to refuel. Enjoy the quick break."
+    },
+    {
+      "ts": "2026-09-26T11:36:49Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、そうだ、財布どこ置いたっけな。\nAssistant: It's not visible on the desk from my camera angle. Check your coat pockets or bag first—it's usually hiding in the last place you think to check."
+    }
+  ],
+  "key_points": [
+    {
+      "ts": "2026-08-05T19:13:27Z",
+      "content": "User's name: Tomoto"
+    },
+    {
+      "ts": "2026-08-05T19:13:27Z",
+      "content": "User is a PhD student."
+    },
+    {
+      "ts": "2026-08-05T19:15:00Z",
+      "content": "Name correction: address the user as Tomoto."
+    },
+    {
+      "ts": "2026-08-05T19:15:37Z",
+      "content": "User said: Yes, please lock the workstation as well."
+    },
+    {
+      "ts": "2026-08-05T19:19:52Z",
+      "content": "User said: Yeah, it's PhD room."
+    },
+    {
+      "ts": "2026-08-05T19:35:51Z",
+      "content": "User said: I'm a PhD student in economics."
+    },
+    {
+      "ts": "2026-08-15T09:33:47Z",
+      "content": "User is planning to write a paper on microeconomic theory."
+    },
+    {
+      "ts": "2026-08-15T11:03:23Z",
+      "content": "User plans to start tomorrow by creating an outline/table of contents for the paper."
+    },
+    {
+      "ts": "2026-08-15T11:03:38Z",
+      "content": "User decided on the topic for their paper today."
+    },
+    {
+      "ts": "2026-08-15T11:05:23Z",
+      "content": "User decided on mechanism design as the topic for their paper."
+    },
+    {
+      "ts": "2026-08-15T11:35:53Z",
+      "content": "User is considering a single-seller, single-buyer trading model as the prototype for their paper."
+    },
+    {
+      "ts": "2026-08-15T15:50:44Z",
+      "content": "User's research topics include UK education and mental health."
+    },
+    {
+      "ts": "2026-08-17T19:36:09Z",
+      "content": "User wants to search for related literature for their mechanism design paper."
+    },
+    {
+      "ts": "2026-08-17T19:37:00Z",
+      "content": "User has a meeting with their supervisor tomorrow at 9:00 AM."
+    },
+    {
+      "ts": "2026-08-17T21:40:05Z",
+      "content": "User expects their meeting with their supervisor tomorrow to finish around 10:00 AM or 10:30 AM."
+    },
+    {
+      "ts": "2026-08-17T21:47:44Z",
+      "content": "User plans to read 1-2 related research papers tomorrow after creating the paper outline."
+    },
+    {
+      "ts": "2026-08-18T05:58:03Z",
+      "content": "User holds solo planning meetings with themselves."
+    },
+    {
+      "ts": "2026-08-18T06:02:16Z",
+      "content": "User's solo meeting is at 9:00 AM today"
+    },
+    {
+      "ts": "2026-08-18T06:02:16Z",
+      "content": "User's supervisor meeting is at 10:00 AM or 10:30 AM today"
+    },
+    {
+      "ts": "2026-08-18T07:09:36Z",
+      "content": "User's meeting tomorrow is at 4:00 PM."
+    },
+    {
+      "ts": "2026-08-18T07:10:08Z",
+      "content": "User's current paper topic is UK education."
+    },
+    {
+      "ts": "2026-08-18T07:11:09Z",
+      "content": "User's specific research topic is the impact of UK school inspections on early career earnings"
+    },
+    {
+      "ts": "2026-08-24T18:46:19Z",
+      "content": "User aims to target the next academic conference presentation as a goal deadline for their paper."
+    },
+    {
+      "ts": "2026-08-24T18:52:47Z",
+      "content": "User's meeting with supervisor tomorrow is rescheduled to 10:30 AM."
+    },
+    {
+      "ts": "2026-08-24T18:53:10Z",
+      "content": "User has an online seminar tomorrow at 4:00 PM."
+    },
+    {
+      "ts": "2026-08-24T18:56:07Z",
+      "content": "User's target conference submission deadline is around the end of November."
+    },
+    {
+      "ts": "2026-08-24T19:08:27Z",
+      "content": "User has already identified several papers on school inspections for their research."
+    }
+  ],
+  "visual_notes": [
+    {
+      "ts": "2026-09-26T10:50:45Z",
+      "content": "The user is wearing glasses and looking directly into the camera at their desk."
+    },
+    {
+      "ts": "2026-09-26T10:54:23Z",
+      "content": "The user is wearing glasses and looking directly into the camera."
+    },
+    {
+      "ts": "2026-09-26T11:10:37Z",
+      "content": "The user is wearing round glasses and looking downward toward their desk or keyboard."
+    },
+    {
+      "ts": "2026-09-26T11:13:23Z",
+      "content": "The user is seated with their head tilted downward toward their desk, showing the top of their dark hair."
+    },
+    {
+      "ts": "2026-09-26T11:14:54Z",
+      "content": "The user is leaning forward at their desk with their head down, showing the top of their dark hair."
+    },
+    {
+      "ts": "2026-09-26T11:18:08Z",
+      "content": "The user is looking up toward the screen while wearing glasses, with a slight smile."
+    },
+    {
+      "ts": "2026-09-26T11:23:24Z",
+      "content": "The user is leaning slightly forward with their head tilted down, wearing round wire-frame glasses."
+    },
+    {
+      "ts": "2026-09-26T11:26:58Z",
+      "content": "The user is looking down at their desk while wearing round wire-frame glasses, with the office door open behind them."
+    },
+    {
+      "ts": "2026-09-26T11:29:46Z",
+      "content": "The user is seated with their head down, showing the back and top of their dark hair."
+    },
+    {
+      "ts": "2026-09-26T11:33:22Z",
+      "content": "The user is sitting with their head lowered, showing the top of their dark hair in front of an open office door and bulletin board."
+    },
+    {
+      "ts": "2026-09-26T11:35:47Z",
+      "content": "The user is sitting at their desk wearing round glasses, looking slightly toward the screen."
+    },
+    {
+      "ts": "2026-09-26T11:36:49Z",
+      "content": "The user is looking down at their desk with their dark hair and round wire-frame glasses visible."
+    }
+  ]
+}

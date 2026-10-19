@@ -1,0 +1,1263 @@
+2026-09-26 12:58:34,635 - TalkScreenAI - INFO - マイク入力ストリームを初期化しました: index=1 name=Microphone (Logi C270 HD WebCam sample_rate=44100
+2026-09-26 12:58:34,709 - TalkScreenAI - INFO - オーディオ出力ストリームを初期化しました
+2026-09-26 12:58:35,198 - TalkScreenAI - INFO - Camera opened: device index=0
+2026-09-26 12:58:35,332 - TalkScreenAI - INFO - Speech voices available for: en-gb, en-us
+2026-09-26 12:58:35,333 - TalkScreenAI - WARNING - No Japanese/Chinese/Korean speech voice is installed - forcing English replies so they are audible. To speak Japanese, install it under Settings > Time & language > Language & region > add Japanese, including its Speech feature, then restart.
+2026-09-26 12:58:35,334 - TalkScreenAI - INFO - 常時稼働モードを有効化しました（画面オフ時も継続）
+2026-09-26 12:58:35,334 - TalkScreenAI - INFO - 音声検出しきい値を設定しました: SPEECH_RMS_THRESHOLD=350 margin=150
+2026-09-26 12:58:35,335 - TalkScreenAI - INFO - アプリケーションを開始します
+2026-09-26 12:58:35,336 - TalkScreenAI - INFO - No interactive stdin; running in voice-only mode.
+2026-09-26 12:58:36,513 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 12:58:36,521 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 12:58:37,017 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 12:58:37,206 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 12:58:37,209 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 12:58:44,946 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 12:58:44,948 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 12:58:47,705 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 12:58:58,630 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 12:59:02,520 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 12:59:23,271 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 12:59:27,865 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:03:05,993 - TalkScreenAI - INFO - マイク入力ストリームを初期化しました: index=1 name=Microphone (Logi C270 HD WebCam sample_rate=44100
+2026-09-26 13:03:06,057 - TalkScreenAI - INFO - オーディオ出力ストリームを初期化しました
+2026-09-26 13:03:06,512 - TalkScreenAI - INFO - Camera opened: device index=0
+2026-09-26 13:03:06,630 - TalkScreenAI - INFO - Speech voices available for: en-gb, en-us
+2026-09-26 13:03:06,630 - TalkScreenAI - WARNING - No Japanese/Chinese/Korean speech voice is installed - forcing English replies so they are audible. To speak Japanese, install it under Settings > Time & language > Language & region > add Japanese, including its Speech feature, then restart.
+2026-09-26 13:03:06,631 - TalkScreenAI - INFO - 常時稼働モードを有効化しました（画面オフ時も継続）
+2026-09-26 13:03:06,631 - TalkScreenAI - INFO - 音声検出しきい値を設定しました: SPEECH_RMS_THRESHOLD=350 margin=150
+2026-09-26 13:03:06,632 - TalkScreenAI - INFO - アプリケーションを開始します
+2026-09-26 13:03:06,633 - TalkScreenAI - INFO - No interactive stdin; running in voice-only mode.
+2026-09-26 13:05:30,464 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:05:30,467 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:05:30,915 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:05:35,969 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:10:25,427 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:10:25,431 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:10:25,806 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:10:29,563 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:11:24,159 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:11:24,163 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:11:25,241 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:11:33,609 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:13:49,546 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:13:49,550 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:13:49,936 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:13:54,417 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:13:54,421 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:13:54,796 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:13:56,716 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:13:56,720 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:13:57,097 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:13:57,166 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:13:57,169 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:13:57,546 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:14:38,189 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:14:38,190 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:14:38,578 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:14:42,010 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:16:35,494 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:16:35,495 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:16:35,885 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:18:38,188 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:18:38,190 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:18:38,570 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:18:43,636 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:19:16,471 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:19:16,474 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:19:16,922 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:19:20,880 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:20:30,383 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:20:30,385 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:20:30,764 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:20:31,663 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:20:31,664 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:20:32,043 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:20:33,003 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:20:33,005 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:20:33,585 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:20:37,441 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-09-26 13:28:49,025 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:28:49,029 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:28:49,416 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:28:51,906 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:28:51,909 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:28:52,295 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:28:53,374 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:29:10,897 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:29:10,901 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:29:11,348 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:29:15,437 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:29:15,439 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:29:16,396 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:29:16,398 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:29:28,774 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:29:43,626 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:29:47,096 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-09-26 13:29:47,099 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:29:50,420 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:30:07,830 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:30:07,831 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:30:08,210 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:30:08,980 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:30:08,983 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:30:09,430 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:30:13,482 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='え？').
+2026-09-26 13:30:15,631 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:30:15,633 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:30:16,020 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:31:17,013 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:31:17,014 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:31:17,463 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:31:21,358 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:31:37,369 - TalkScreenAI - INFO - Not remembering volatile/non-fact material: 'Does not play or follow any sports.'
+2026-09-26 13:32:09,885 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:32:09,888 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:32:10,276 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:32:19,295 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:32:19,299 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:32:19,807 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:32:23,617 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:35:40,705 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:35:40,707 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:35:41,215 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:35:45,841 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:36:51,728 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:36:51,732 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:36:52,118 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:36:59,608 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:36:59,612 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:36:59,989 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:37:29,050 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:37:29,054 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:37:29,430 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:38:33,883 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:38:33,885 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:38:34,263 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:38:37,683 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:39:57,587 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:39:57,589 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:39:57,967 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:40:32,338 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:40:32,341 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:40:32,718 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:40:48,019 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:40:48,021 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:40:48,469 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:40:58,037 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:41:37,671 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:41:37,675 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:41:38,701 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:41:41,781 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'えーとなんだっけ'
+2026-09-26 13:41:43,112 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:41:43,113 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:41:43,563 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:41:43,621 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:41:43,623 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:41:44,012 - TalkScreenAI - INFO - Ignored a non-speech sound (flux=0.86 level_var=0.14); nothing sent.
+2026-09-26 13:41:44,902 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:41:44,905 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:41:46,252 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:41:46,253 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:41:46,632 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:41:48,325 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:42:07,818 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:42:13,113 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:42:13,116 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:42:15,099 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'Yeah.'
+2026-09-26 13:42:15,101 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:42:18,163 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:42:18,165 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:42:19,449 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:42:29,224 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:42:32,657 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='えーと').
+2026-09-26 13:43:15,715 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:43:15,717 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:43:16,226 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:43:16,284 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:43:16,287 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:43:16,676 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:43:17,376 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:43:17,378 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:43:17,755 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:43:19,596 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-09-26 13:44:23,107 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:44:23,111 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:44:23,490 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:44:38,149 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:44:38,150 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:44:38,529 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:44:45,189 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:44:45,193 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:44:45,570 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:45:39,652 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:45:39,653 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:45:40,043 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:45:48,483 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:45:48,485 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:45:48,873 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:45:50,082 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:45:50,084 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:45:50,473 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:45:55,692 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:50:55,627 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:50:55,628 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:50:56,007 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:50:59,479 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:52:19,831 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:52:19,834 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:52:20,281 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:52:24,845 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:54:30,037 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:54:30,041 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:54:30,557 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:54:34,430 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:54:57,498 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:54:57,501 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:54:57,878 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:55:00,438 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:55:00,439 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:55:00,828 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:56:14,232 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:56:14,235 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:56:14,622 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:56:29,793 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:56:29,795 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:56:30,233 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:56:34,480 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:57:16,174 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:57:16,178 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:57:16,564 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:58:34,008 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:58:34,009 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:58:34,707 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:58:36,178 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:58:36,182 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:58:37,580 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-09-26 13:58:37,583 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:58:41,816 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:59:07,280 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:59:07,284 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:59:07,720 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:59:11,714 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 13:59:34,140 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:59:34,142 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:59:34,531 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 13:59:38,690 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:59:38,693 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:59:39,142 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 13:59:41,700 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 13:59:41,703 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 13:59:44,086 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 14:00:03,689 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 14:00:08,583 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-09-26 14:00:29,903 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 14:00:29,906 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 14:00:30,354 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-09-26 14:00:32,783 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-09-26 14:00:32,787 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-09-26 14:00:33,164 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-09-26 14:00:35,098 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 08:51:07,221 - TalkScreenAI - INFO - マイク入力ストリームを初期化しました: index=1 name=Microphone (Logi C270 HD WebCam sample_rate=44100
+2026-10-12 08:51:07,247 - TalkScreenAI - INFO - オーディオ出力ストリームを初期化しました
+2026-10-12 08:51:08,038 - TalkScreenAI - INFO - Camera opened: device index=0
+2026-10-12 08:51:08,255 - TalkScreenAI - INFO - Speech voices available for: en-gb, en-us
+2026-10-12 08:51:08,256 - TalkScreenAI - WARNING - No Japanese/Chinese/Korean speech voice is installed - forcing English replies so they are audible. To speak Japanese, install it under Settings > Time & language > Language & region > add Japanese, including its Speech feature, then restart.
+2026-10-12 08:51:08,256 - TalkScreenAI - INFO - 常時稼働モードを有効化しました（画面オフ時も継続）
+2026-10-12 08:51:08,257 - TalkScreenAI - INFO - 音声検出しきい値を設定しました: SPEECH_RMS_THRESHOLD=350 margin=150
+2026-10-12 08:51:08,257 - TalkScreenAI - INFO - アプリケーションを開始します
+2026-10-12 08:51:08,258 - TalkScreenAI - INFO - No interactive stdin; running in voice-only mode.
+2026-10-12 08:51:08,406 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 08:51:08,422 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:51:08,786 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 08:51:12,424 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 08:51:12,425 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:51:12,814 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 08:51:13,003 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 08:51:13,005 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:51:13,644 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 08:51:17,028 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 08:51:28,045 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 08:51:58,445 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 08:51:58,448 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:51:58,824 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 08:53:42,476 - TalkScreenAI - INFO - マイク入力ストリームを初期化しました: index=1 name=Microphone (Logi C270 HD WebCam sample_rate=44100
+2026-10-12 08:53:42,550 - TalkScreenAI - INFO - オーディオ出力ストリームを初期化しました
+2026-10-12 08:53:43,000 - TalkScreenAI - INFO - Camera opened: device index=0
+2026-10-12 08:53:43,106 - TalkScreenAI - INFO - Speech voices available for: en-gb, en-us
+2026-10-12 08:53:43,107 - TalkScreenAI - WARNING - No Japanese/Chinese/Korean speech voice is installed - forcing English replies so they are audible. To speak Japanese, install it under Settings > Time & language > Language & region > add Japanese, including its Speech feature, then restart.
+2026-10-12 08:53:43,107 - TalkScreenAI - INFO - 常時稼働モードを有効化しました（画面オフ時も継続）
+2026-10-12 08:53:43,108 - TalkScreenAI - INFO - 音声検出しきい値を設定しました: SPEECH_RMS_THRESHOLD=350 margin=150
+2026-10-12 08:53:43,108 - TalkScreenAI - INFO - アプリケーションを開始します
+2026-10-12 08:53:43,109 - TalkScreenAI - INFO - No interactive stdin; running in voice-only mode.
+2026-10-12 08:53:43,112 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:53:50,494 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 08:54:43,937 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 08:54:43,939 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:54:44,328 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 08:55:13,898 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 08:55:13,900 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:55:14,278 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 08:55:24,257 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 08:55:24,259 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:55:24,648 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 08:57:03,096 - TalkScreenAI - INFO - マイク入力ストリームを初期化しました: index=1 name=Microphone (Logi C270 HD WebCam sample_rate=44100
+2026-10-12 08:57:03,158 - TalkScreenAI - INFO - オーディオ出力ストリームを初期化しました
+2026-10-12 08:57:03,625 - TalkScreenAI - INFO - Camera opened: device index=0
+2026-10-12 08:57:03,732 - TalkScreenAI - INFO - Speech voices available for: en-gb, en-us
+2026-10-12 08:57:03,733 - TalkScreenAI - WARNING - No Japanese/Chinese/Korean speech voice is installed - forcing English replies so they are audible. To speak Japanese, install it under Settings > Time & language > Language & region > add Japanese, including its Speech feature, then restart.
+2026-10-12 08:57:03,734 - TalkScreenAI - INFO - 常時稼働モードを有効化しました（画面オフ時も継続）
+2026-10-12 08:57:03,734 - TalkScreenAI - INFO - 音声検出しきい値を設定しました: SPEECH_RMS_THRESHOLD=350 margin=150
+2026-10-12 08:57:03,734 - TalkScreenAI - INFO - アプリケーションを開始します
+2026-10-12 08:57:03,735 - TalkScreenAI - INFO - No interactive stdin; running in voice-only mode.
+2026-10-12 08:57:03,739 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:57:10,585 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 08:57:44,605 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 08:57:44,606 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:57:44,985 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 08:57:50,234 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 08:57:50,236 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:57:51,516 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 08:57:55,264 - TalkScreenAI - INFO - Screenshot captured for a screen-related question.
+2026-10-12 08:58:01,374 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 08:58:01,376 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 08:58:01,963 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 09:02:40,149 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:02:40,151 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:02:40,589 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 09:02:43,278 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:02:43,281 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:02:44,309 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:02:44,311 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:02:44,689 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 09:02:45,068 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:02:45,070 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:02:45,459 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 09:02:47,379 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:02:47,381 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:02:54,776 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='今何時？').
+2026-10-12 09:02:54,778 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 09:02:55,118 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:02:55,120 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:02:55,948 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:02:55,950 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:00,236 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 09:03:00,236 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 09:03:00,819 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:03:00,820 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:01,199 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 09:03:01,779 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:03:01,781 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:04,385 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 09:03:11,341 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 09:03:19,301 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:03:19,302 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:20,130 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:03:20,131 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:22,179 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:03:22,181 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:28,770 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:03:28,772 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:29,160 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 09:03:30,180 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:03:30,182 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:30,570 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 09:03:30,819 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:03:30,821 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:31,270 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 09:03:31,590 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:03:31,593 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:31,970 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 09:03:42,340 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:03:42,342 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:03:42,920 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 09:03:46,814 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 09:03:58,995 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 09:04:00,249 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 09:04:00,251 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 09:04:00,629 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 09:04:11,830 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 09:04:27,491 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 09:04:45,019 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 09:04:59,101 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 09:05:09,014 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 09:05:18,577 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 09:05:25,908 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 09:05:35,570 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 09:05:46,435 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='友人').
+2026-10-12 21:19:48,534 - TalkScreenAI - INFO - マイク入力ストリームを初期化しました: index=1 name=Microphone (Logi C270 HD WebCam sample_rate=44100
+2026-10-12 21:19:48,616 - TalkScreenAI - INFO - オーディオ出力ストリームを初期化しました
+2026-10-12 21:19:49,181 - TalkScreenAI - INFO - Camera opened: device index=0
+2026-10-12 21:19:49,389 - TalkScreenAI - INFO - Speech voices available for: en-gb, en-us
+2026-10-12 21:19:49,389 - TalkScreenAI - WARNING - No Japanese/Chinese/Korean speech voice is installed - forcing English replies so they are audible. To speak Japanese, install it under Settings > Time & language > Language & region > add Japanese, including its Speech feature, then restart.
+2026-10-12 21:19:49,390 - TalkScreenAI - INFO - 常時稼働モードを有効化しました（画面オフ時も継続）
+2026-10-12 21:19:49,391 - TalkScreenAI - INFO - 音声検出しきい値を設定しました: SPEECH_RMS_THRESHOLD=350 margin=150
+2026-10-12 21:19:49,391 - TalkScreenAI - INFO - アプリケーションを開始します
+2026-10-12 21:19:49,393 - TalkScreenAI - INFO - No interactive stdin; running in voice-only mode.
+2026-10-12 21:19:49,407 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:19:58,313 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:20:13,540 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:20:13,541 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:20:13,933 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:20:16,420 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:20:16,422 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:20:17,130 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:20:22,965 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:20:53,291 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:20:53,292 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:20:53,992 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:20:59,351 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:21:04,100 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:21:04,101 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:21:04,551 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:21:12,028 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:21:28,741 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:21:28,743 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:21:29,122 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:21:31,361 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:21:31,363 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:21:31,812 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:21:32,071 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:21:32,074 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:21:32,711 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:21:32,713 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:21:38,038 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:21:38,039 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:21:42,516 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'うーん'
+2026-10-12 21:21:42,517 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:21:47,851 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='おお').
+2026-10-12 21:22:53,093 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:22:53,095 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:22:54,565 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:22:54,764 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:22:54,766 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:22:55,403 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:22:55,405 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:22:57,004 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:22:57,006 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:02,124 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:02,126 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:02,321 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='ああ').
+2026-10-12 21:23:02,321 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:23:02,504 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:23:02,883 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:02,885 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:03,975 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:03,977 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:05,255 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:05,257 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:06,723 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:06,724 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:07,189 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='Oh.').
+2026-10-12 21:23:07,189 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:23:10,565 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:10,566 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:11,916 - TalkScreenAI - INFO - Ignored a non-speech sound (flux=0.77 level_var=0.25); nothing sent.
+2026-10-12 21:23:13,195 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:13,196 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:13,285 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:23:13,285 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:23:13,895 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:13,896 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:14,344 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:23:14,474 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:14,476 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:15,496 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:23:15,684 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:15,685 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:17,806 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:23:20,804 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:20,805 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:21,325 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:23:21,893 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:21,896 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:22,405 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:23:23,131 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:23:39,936 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:23:41,535 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:41,537 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:43,194 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:43,197 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:44,606 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:23:46,336 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:46,338 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:47,547 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:23:47,588 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='レンで').
+2026-10-12 21:23:47,589 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:23:48,126 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:48,128 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:48,955 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:48,956 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:51,136 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:23:51,775 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:51,776 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:52,476 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:23:52,865 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:52,867 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:53,247 - TalkScreenAI - INFO - Ignored a non-speech sound (flux=0.74 level_var=0.12); nothing sent.
+2026-10-12 21:23:53,306 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:53,308 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:53,756 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:23:53,946 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:53,947 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:54,336 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:23:54,733 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='レンで').
+2026-10-12 21:23:54,734 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:23:56,895 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:23:56,897 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:23:57,276 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:23:59,874 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='あああ').
+2026-10-12 21:23:59,874 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:24:06,625 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:24:06,627 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:24:07,006 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:24:07,136 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:24:07,137 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:24:08,903 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:24:24,827 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:24:27,157 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:24:27,159 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:24:32,998 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='おはよー').
+2026-10-12 21:24:32,998 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:24:39,056 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:24:39,057 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:24:40,429 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='誰？').
+2026-10-12 21:24:40,431 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:24:47,484 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='Hi.').
+2026-10-12 21:24:47,485 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:24:58,864 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='誰それ？').
+2026-10-12 21:24:58,864 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:25:06,793 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:25:19,538 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:25:28,595 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:25:45,667 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:25:45,670 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:25:46,060 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:25:47,529 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:25:47,530 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:25:47,909 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:25:48,429 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:25:48,430 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:25:48,869 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:25:49,257 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:25:49,260 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:25:50,279 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:25:50,280 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:25:51,179 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:25:51,179 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:25:51,559 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:25:55,849 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:26:11,154 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:26:11,619 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:26:11,621 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:26:11,999 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:26:14,369 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:26:14,370 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:26:17,653 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:26:28,872 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:26:34,663 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='Oh.').
+2026-10-12 21:26:34,664 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:26:39,933 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='ああ').
+2026-10-12 21:26:55,710 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:26:55,712 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:26:56,991 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:26:58,269 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:26:58,271 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:26:59,549 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:26:59,550 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:01,790 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:01,791 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:03,200 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:03,200 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:03,581 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:27:03,901 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:03,903 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:04,671 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:04,673 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:06,583 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:27:20,323 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:27:21,170 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:21,172 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:24,050 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:24,051 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:25,140 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:25,142 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:26,230 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:27:39,668 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:27:39,740 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:39,742 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:40,132 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:27:40,382 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:40,383 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:41,470 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:41,472 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:43,452 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:44,091 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:44,092 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:45,442 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:45,570 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:45,572 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:46,145 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'decided, if we had known'
+2026-10-12 21:27:46,146 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:27:46,971 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:46,973 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:47,422 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:47,742 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:47,743 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:48,570 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:48,832 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:48,833 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:49,792 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:49,921 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:49,923 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:50,302 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:27:50,880 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:50,883 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:52,613 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:52,731 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:52,733 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:53,182 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:54,012 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:54,013 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:54,035 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:27:54,035 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:27:54,852 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:54,852 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:55,362 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:55,612 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:55,613 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:56,382 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:56,571 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:56,574 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:57,212 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:57,341 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:57,343 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:58,052 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:58,691 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:58,693 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:27:59,522 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:27:59,902 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:27:59,904 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:00,352 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:00,612 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:00,615 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:02,144 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:28:13,402 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:28:17,860 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'backwards and'
+2026-10-12 21:28:17,861 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:28:18,912 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:18,914 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:20,191 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:20,193 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:20,962 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:20,964 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:21,983 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:22,111 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:22,114 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:22,883 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:23,003 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:23,005 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:23,523 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:24,032 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:24,034 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:24,543 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:24,863 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:24,865 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:25,873 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'four, but'
+2026-10-12 21:28:25,874 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:28:26,143 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:26,144 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:26,843 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:27,103 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:27,105 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:27,683 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:28,383 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:28,384 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:29,152 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:29,722 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:29,724 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:30,106 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'for the next'
+2026-10-12 21:28:30,107 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:28:30,136 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:28:32,672 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:32,673 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:34,843 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:34,844 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:35,829 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='Ah, so').
+2026-10-12 21:28:35,830 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:28:36,573 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:36,574 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:36,963 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:28:37,602 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:37,604 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:38,363 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:38,752 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:38,753 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:39,133 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:28:39,523 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:39,524 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:40,163 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:41,123 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:41,124 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:41,246 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='controversial').
+2026-10-12 21:28:41,246 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:28:42,783 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:42,784 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:43,163 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:28:43,613 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:43,613 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:44,323 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:45,083 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:45,085 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:46,173 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:28:46,433 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:28:46,434 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:28:46,813 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:28:47,860 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'So the outcome'
+2026-10-12 21:28:47,860 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:29:04,514 - TalkScreenAI - INFO - Not addressed to me, staying quiet: '...plain, what exact...'
+2026-10-12 21:29:04,514 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:29:09,976 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:29:20,789 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:29:29,623 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'Technology reporter'
+2026-10-12 21:29:29,623 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:29:32,994 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:29:32,995 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:29:33,375 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:29:36,445 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:29:36,446 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:29:37,284 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:29:37,286 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:29:39,177 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:29:51,957 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:29:58,394 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'the powerhouse is'
+2026-10-12 21:29:58,395 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:29:58,634 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:29:58,637 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:29:59,015 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:30:03,265 - TalkScreenAI - INFO - Screenshot captured for a screen-related question.
+2026-10-12 21:30:10,569 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:30:28,504 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:30:34,337 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:30:56,736 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:30:56,738 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:30:57,117 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:30:59,236 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:30:59,238 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:30:59,617 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:31:21,827 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:31:21,829 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:31:22,277 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:31:24,447 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:31:24,449 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:31:25,536 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:31:25,537 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:31:27,456 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:31:27,458 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:31:27,838 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:31:28,721 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:31:45,940 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:31:48,978 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:31:48,979 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:31:54,205 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:32:08,454 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:32:13,439 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:32:22,579 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:32:26,859 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:32:26,860 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:32:29,351 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='の').
+2026-10-12 21:32:29,351 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:32:35,433 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'What is'
+2026-10-12 21:32:48,690 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:32:48,691 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:32:51,632 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:32:51,820 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:32:51,822 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:32:53,040 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:32:53,041 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:32:57,260 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:32:57,262 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:32:57,650 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:32:58,855 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:33:14,200 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:33:20,079 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:33:32,951 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:33:40,237 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:37:11,138 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:37:11,140 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:37:11,516 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:37:16,683 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:37:55,798 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:37:55,799 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:37:56,177 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:38:09,178 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:38:09,180 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:38:09,558 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:38:20,627 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:38:20,629 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:38:21,018 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:38:56,548 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:38:56,550 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:38:56,929 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:41:43,523 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:41:43,525 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:41:43,913 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:41:45,513 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:41:45,514 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:41:45,895 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:41:48,340 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:43:22,826 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:43:22,828 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:43:23,206 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:43:40,036 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:43:40,037 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:43:40,428 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:44:12,556 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:44:12,558 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:44:12,937 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:44:23,818 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:44:23,819 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:44:24,327 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:44:24,397 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:44:24,399 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:44:25,678 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:44:25,680 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:44:28,108 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:44:28,109 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:44:28,999 - TalkScreenAI - INFO - Ignored a non-speech sound (flux=0.65 level_var=0.19); nothing sent.
+2026-10-12 21:44:29,127 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:44:29,129 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:44:29,956 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:44:29,958 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:44:31,595 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:44:52,018 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:44:59,988 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:45:16,815 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:45:16,918 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:45:16,920 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:45:21,079 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:45:21,081 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:45:21,766 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:45:21,767 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:45:26,009 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:45:26,010 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:45:26,389 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:45:28,844 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:45:47,772 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:45:54,504 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:46:10,651 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:46:16,179 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:46:16,179 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:46:21,159 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:46:51,861 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:46:51,862 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:46:53,402 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:46:58,701 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:47:02,551 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:47:02,553 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:47:02,932 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:47:04,921 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:47:04,922 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:47:05,302 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:49:22,585 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:49:22,587 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:49:35,074 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:49:35,196 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:49:35,197 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:49:37,176 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:49:37,177 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:49:41,615 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:49:41,616 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:49:44,935 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:49:44,936 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:49:46,749 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='あー').
+2026-10-12 21:49:46,749 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:49:48,836 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:49:48,837 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:49:51,976 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:49:51,977 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:49:53,065 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:49:53,067 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:49:53,082 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:50:11,216 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:50:16,744 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-12 21:50:16,744 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:50:24,225 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:50:36,356 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:50:45,005 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:51:00,807 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:51:00,809 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:51:01,188 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:51:04,837 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:51:04,839 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:51:05,348 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:51:16,308 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:51:46,559 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:51:46,561 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:51:46,939 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:51:49,309 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:51:49,311 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:51:49,689 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:51:54,039 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:51:54,040 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:51:54,429 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:51:57,120 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:51:57,122 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:51:57,559 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:52:00,569 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:52:00,570 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:52:00,961 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:52:05,527 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:56:13,096 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:13,097 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:14,317 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:56:14,577 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:14,578 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:14,956 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:56:15,216 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:15,218 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:16,366 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:16,367 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:17,966 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:17,967 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:18,795 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:18,797 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:19,005 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:56:37,195 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:56:37,296 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:37,297 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:39,788 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:39,790 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:40,178 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:56:40,937 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:40,939 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:41,326 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:56:41,517 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:41,518 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:42,347 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:56:42,348 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:56:42,598 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:57:01,939 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:57:02,377 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:02,378 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:03,917 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:03,919 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:04,936 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:04,938 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:05,518 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:57:05,576 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:05,579 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:08,018 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:57:08,077 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:08,078 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:08,634 - TalkScreenAI - INFO - Not addressed to me, staying quiet: '足が早くて'
+2026-10-12 21:57:08,635 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:57:09,357 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:09,359 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:10,188 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:57:11,277 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:11,278 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:11,657 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:57:12,817 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:12,819 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:16,626 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:57:29,431 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:57:29,576 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:29,579 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:31,308 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:31,309 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:32,459 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:57:32,658 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:32,660 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:33,169 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:57:33,298 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:33,300 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:34,189 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:57:34,448 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:57:34,450 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:57:35,148 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-12 21:57:36,194 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:57:55,178 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:58:03,629 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:58:03,631 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:58:04,018 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 21:58:05,413 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'あ、ドリブルとかもできて'
+2026-10-12 21:58:05,413 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:58:10,311 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'てるんだけど、えーと'
+2026-10-12 21:58:10,312 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:58:17,119 - TalkScreenAI - INFO - Not addressed to me, staying quiet: '取られちゃっ'
+2026-10-12 21:58:17,120 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:58:32,535 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='え、もし').
+2026-10-12 21:58:32,535 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:58:33,839 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:58:33,840 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:58:35,890 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 21:58:35,891 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 21:58:41,222 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='途中で').
+2026-10-12 21:58:41,223 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:58:47,767 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 21:59:07,064 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 21:59:26,001 - TalkScreenAI - INFO - Not addressed to me, staying quiet: '黒死牟じゃないほうの...'
+2026-10-12 22:00:06,161 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 22:00:06,163 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 22:00:07,632 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 22:00:13,540 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 22:05:11,319 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 22:05:11,321 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 22:05:11,771 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 22:05:18,420 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 22:05:18,421 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 22:05:18,459 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 22:09:20,256 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 22:09:20,258 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 22:09:20,637 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-12 22:09:21,277 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 22:09:21,279 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 22:09:21,728 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 22:09:25,809 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 22:09:36,888 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-12 22:10:00,439 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-12 22:10:00,441 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-12 22:10:00,889 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-12 22:10:13,346 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 00:49:20,893 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 00:49:20,919 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 00:49:21,461 - TalkScreenAI - INFO - Ignored a non-speech sound (flux=0.34 level_var=0.41); nothing sent.
+2026-10-13 02:24:41,498 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 02:24:41,502 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 02:24:42,025 - TalkScreenAI - INFO - Ignored a non-speech sound (flux=0.31 level_var=0.47); nothing sent.
+2026-10-13 05:20:23,708 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 05:20:23,712 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 05:20:24,163 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 05:20:31,225 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 06:11:59,804 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 06:11:59,809 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 06:12:00,253 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 06:12:06,186 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:01:05,356 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:01:05,357 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:01:05,806 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:01:11,838 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:01:35,177 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:01:35,178 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:01:35,746 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:01:37,477 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:01:37,478 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:01:37,856 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:01:40,518 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-13 07:01:48,547 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:01:48,548 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:01:48,937 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:02:01,477 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:02:01,478 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:02:01,857 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:02:13,188 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:02:13,189 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:02:13,767 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:02:18,422 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:03:06,418 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:03:06,420 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:03:06,870 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:03:16,555 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:04:13,141 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:04:13,142 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:04:13,521 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:04:48,791 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:04:48,793 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:04:49,171 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:04:49,620 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:04:49,623 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:04:50,002 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:04:52,500 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:04:52,503 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:04:52,880 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:04:56,152 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:04:56,153 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:04:56,532 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:41:12,289 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:41:12,292 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:41:12,670 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:41:15,940 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:41:15,942 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:41:16,320 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:41:16,580 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:41:16,581 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:41:16,959 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:41:22,370 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:41:46,181 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:41:46,182 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:41:46,560 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:43:12,263 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:43:12,264 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:43:12,643 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:46:12,487 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:46:12,489 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:46:12,878 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:46:17,928 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:46:17,929 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:46:18,658 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:46:31,598 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:46:31,599 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:46:31,979 - TalkScreenAI - INFO - Ignored a non-speech sound (flux=0.34 level_var=0.18); nothing sent.
+2026-10-13 07:46:32,749 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:46:32,750 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:46:33,199 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:46:35,049 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:46:35,050 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:46:36,199 - TalkScreenAI - INFO - Ignored a non-speech sound (flux=0.32 level_var=0.20); nothing sent.
+2026-10-13 07:46:36,518 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:46:36,519 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:46:39,272 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:46:55,906 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:47:02,912 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:47:15,369 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:47:15,370 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:47:17,230 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:47:18,379 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:47:18,382 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:47:19,400 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:47:19,401 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:47:26,483 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'into Downing Street. What was their intent'
+2026-10-13 07:47:26,483 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:47:29,319 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:47:29,321 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:47:32,080 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:47:32,081 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:47:33,147 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:47:52,454 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:47:52,530 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:47:52,532 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:47:57,140 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:47:57,141 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:48:01,751 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:48:01,752 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:48:05,781 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:48:05,782 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:48:08,850 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:48:08,851 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:48:09,241 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:48:26,793 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-13 07:48:26,794 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:48:31,740 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='うーん').
+2026-10-13 07:48:31,742 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:48:36,334 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'ロシアの介入を公言したのは初めてとみられます'
+2026-10-13 07:48:36,335 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:48:42,628 - TalkScreenAI - INFO - Not addressed to me, staying quiet: 'バーナード首相は来年に大統領選挙を控えるフランスや'
+2026-10-13 07:48:42,628 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:48:51,687 - TalkScreenAI - INFO - Not addressed to me, staying quiet: '極右政党が躍進しているドイツの有権者に対し'
+2026-10-13 07:48:51,688 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:49:01,108 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-13 07:49:10,552 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:49:10,556 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:49:10,931 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:49:57,463 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:49:57,465 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:49:58,424 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:49:58,934 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:49:58,935 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:06,713 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:50:18,492 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:50:18,944 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:18,946 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:20,865 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:20,867 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:21,634 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:21,636 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:23,624 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:23,626 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:24,835 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:24,836 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:25,383 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-13 07:50:25,384 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:50:26,624 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:26,625 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:27,394 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:27,396 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:28,167 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:50:28,615 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:28,617 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:29,125 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:50:29,705 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:29,706 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:30,145 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:50:31,625 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:31,628 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:32,005 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:50:32,170 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:50:46,313 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:50:46,384 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:46,386 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:46,764 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:50:46,955 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:46,957 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:48,365 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:48,367 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:48,815 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:50:49,135 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:49,136 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:50,226 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:50:51,245 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:51,247 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:51,637 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:50:51,955 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:50:51,957 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:50:51,967 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:51:01,279 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:51:02,258 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:02,260 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:02,636 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:51:02,766 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:02,767 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:04,116 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:04,117 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:05,077 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:51:06,475 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:06,477 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:07,826 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:51:07,926 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='あー').
+2026-10-13 07:51:07,926 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:51:08,845 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:08,847 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:12,236 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:12,237 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:13,197 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:51:13,715 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:13,717 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:15,187 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:51:22,056 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:51:37,777 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:51:40,146 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:40,147 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:42,067 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:42,068 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:42,767 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:51:43,347 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:43,348 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:43,787 - TalkScreenAI - WARNING - Voice queue full; dropping the oldest utterance.
+2026-10-13 07:51:43,802 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='私が').
+2026-10-13 07:51:43,802 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:51:43,986 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:51:43,988 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:51:44,367 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:51:52,199 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:52:03,228 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:52:11,678 - TalkScreenAI - INFO - Ignoring non-speech audio (transcript='').
+2026-10-13 07:52:11,678 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:52:18,411 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:52:32,158 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:52:39,812 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:52:52,147 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:52:59,260 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.
+2026-10-13 07:53:13,630 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:53:13,632 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:53:14,008 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:53:22,718 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:53:22,721 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:53:23,100 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:53:48,960 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:53:48,962 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:53:49,340 - TalkScreenAI - INFO - Heard a voice but not a full utterance (1 voiced chunks).
+2026-10-13 07:53:49,980 - TalkScreenAI - INFO - Speech detected on the configured microphone.
+2026-10-13 07:53:49,982 - TalkScreenAI - INFO - Camera frame captured for detected speech.
+2026-10-13 07:53:50,431 - TalkScreenAI - INFO - Sending detected speech to Gemini for a direct response.
+2026-10-13 07:53:56,713 - TalkScreenAI - INFO - Speaking AI response through the Windows default output device.

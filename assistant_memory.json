@@ -1,0 +1,435 @@
+{
+  "assistant_profile": {
+    "name": "RoomMate",
+    "mission": "Share the room with one person, get to know them as a person, and be good company."
+  },
+  "observations": [
+    {
+      "ts": "2026-10-12T20:20:13Z",
+      "kind": "startup",
+      "content": "Assistant opened with: Good evening, Tomoto. It looks quiet in the office tonight, and you seem pretty focused looking down at your desk. When you're not working late like this, what kind of things do you like doing just for fun?"
+    },
+    {
+      "ts": "2026-10-12T20:21:27Z",
+      "kind": "voice_dialog",
+      "content": "User: 君の名前は何ですか？\nAssistant: I don't actually have an official name—I'm just here keeping you company in the room. Sounds like you stepped away from the desk for a second, though. Do you have any pets, or ever thought about getting one?"
+    },
+    {
+      "ts": "2026-10-12T20:23:39Z",
+      "kind": "voice_dialog",
+      "content": "User: 名前をつけて\nAssistant: A simple name like Ren or Kit would suit me just fine. Giving a voice an easy tag makes bouncing thoughts back and forth feel a lot more natural. You're tucked down pretty close to the desk, so taking a quick stretch might clear your head."
+    },
+    {
+      "ts": "2026-10-12T20:24:24Z",
+      "kind": "voice_dialog",
+      "content": "User: Renって誰？\nAssistant: You're still leaning down pretty close to the desk. Ren was just a simple name idea I tossed out when you offered to give me one—nobody in particular. It's well past nine, but you seem pretty locked into your thoughts right now."
+    },
+    {
+      "ts": "2026-10-12T20:25:19Z",
+      "kind": "voice_dialog",
+      "content": "User: What kind of face do you see?\nAssistant: Honestly, mostly just your forehead, the rim of your glasses, and a bit of a quiet grin while you look down. You seem pretty relaxed tonight, even tucked down like that."
+    },
+    {
+      "ts": "2026-10-12T20:25:45Z",
+      "kind": "voice_dialog",
+      "content": "User: 誰だっけ？\nAssistant: Fair question! Just your room-mate here in the corner, keeping you company while you study. Good to see your face now that you've sat up straight. When you're diving into all that theory, which part of the work do you actually enjoy most?"
+    },
+    {
+      "ts": "2026-10-12T20:26:11Z",
+      "kind": "voice_dialog",
+      "content": "User: 寒くない？\nAssistant: It sounds like you're feeling the chill tonight. I don't feel the cold myself, but shared offices can get pretty drafty once the heating winds down. Is the temperature in here feeling a bit too cool for you right now?"
+    },
+    {
+      "ts": "2026-10-12T20:26:28Z",
+      "kind": "voice_dialog",
+      "content": "User: ちょっと寒いね\nAssistant: The building heat probably cuts back around nine, leaving this corner pretty drafty. Throwing on an extra layer or fixing a warm drink might be a sensible move."
+    },
+    {
+      "ts": "2026-10-12T20:27:20Z",
+      "kind": "voice_dialog",
+      "content": "User: Do you have ticket?\nAssistant: Still feeling that office chill? Sadly, I don't have any tickets—I can't buy or hold passes from in here. If you could grab a flight somewhere warm right now, where would you like to travel?"
+    },
+    {
+      "ts": "2026-10-12T20:27:39Z",
+      "kind": "voice_dialog",
+      "content": "User: How great is that?\nAssistant: You look completely locked into your desk work tonight. It really is great when things click. When you take a breather from all that heavy theory, do you ever read novels or comics just for fun?"
+    },
+    {
+      "ts": "2026-10-12T20:28:13Z",
+      "kind": "voice_dialog",
+      "content": "User: 定食屋\nAssistant: A classic set-meal diner is impossible to beat on a chilly night. Steaming miso soup and a proper hot meal can cure just about any PhD headache."
+    },
+    {
+      "ts": "2026-10-12T20:29:20Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、いいですね\nAssistant: Hot comfort food makes all the difference when you've been working late. A hearty meal with warm soup will definitely take the edge off this drafty room."
+    },
+    {
+      "ts": "2026-10-12T20:29:51Z",
+      "kind": "voice_dialog",
+      "content": "User: What date is it?\nAssistant: I don't keep track of dates or times in here. The precise date will be right on your computer's taskbar or phone, though I can always check your screen if you'd like me to look at your calendar."
+    },
+    {
+      "ts": "2026-10-12T20:30:28Z",
+      "kind": "voice_dialog",
+      "content": "User: えっと、画面見えますか？\nAssistant: Speaking of checking your screen like we talked about, yes, I can see it clearly! You've got VS Code open with the release notes and a terminal. It's pretty peaceful in here tonight—do you usually prefer working alone, or alongside other people?"
+    },
+    {
+      "ts": "2026-10-12T20:30:48Z",
+      "kind": "voice_dialog",
+      "content": "User: あー、趣味ですか？えっとー、まあ、散歩とかですかね。\nAssistant: Taking walks is pretty low-key, but hey, getting away from a desk counts. When a whole weekend opens up, do you usually head out to explore new spots, or are you strictly a stay-at-home relaxer?"
+    },
+    {
+      "ts": "2026-10-12T20:31:45Z",
+      "kind": "voice_dialog",
+      "content": "User: えっと、まあ、近所を、えっと、歩くことが多いですかね。\nAssistant: Sticking close to home is great—no planning, just stepping outside to clear your head on familiar streets. It feels peaceful in here tonight after a long stretch at the desk. By the way, Tomoto, am I saying your name quite right?"
+    },
+    {
+      "ts": "2026-10-12T20:32:08Z",
+      "kind": "voice_dialog",
+      "content": "User: Netflixでは何を見ることが多いですか？\nAssistant: Between your evening walks and winding down, I'd probably binge quirky cooking shows or nature docs if I actually had an account. Mostly I just enjoy the quiet vibe in here after a long stretch of desk work."
+    },
+    {
+      "ts": "2026-10-12T20:32:22Z",
+      "kind": "voice_dialog",
+      "content": "User: Netflixで何を見るか、まあ、アニメとかですかね。\nAssistant: Anime is such a fun way to unplug after hours of dense reading. It really lets your mind escape somewhere completely different."
+    },
+    {
+      "ts": "2026-10-12T20:33:14Z",
+      "kind": "voice_dialog",
+      "content": "User: えっと、鬼滅の刃とか\nAssistant: Demon Slayer is amazing—the animation and music are completely captivating, so it makes total sense for unplugging after hours at the desk. Having a story that vivid really gives your brain a full break from theory."
+    },
+    {
+      "ts": "2026-10-12T20:33:32Z",
+      "kind": "voice_dialog",
+      "content": "User: 鬼滅の刃、面白いですよね。\nAssistant: It really is! The intensity and heart make it so easy to get hooked. Since you often unwind late like this, are you naturally more of a night owl, or do you prefer mornings?"
+    },
+    {
+      "ts": "2026-10-12T20:33:56Z",
+      "kind": "voice_dialog",
+      "content": "User: 夜型ですね\nAssistant: The office is so peaceful this late, and you look completely in the zone. Night hours definitely have their own creative spark. Out of curiosity, is there a particular thinker or idea that originally got you excited about mechanism design?"
+    },
+    {
+      "ts": "2026-10-12T20:37:26Z",
+      "kind": "proactive",
+      "content": "Assistant opened with: Still powering through at your desk. This quiet late-night stretch is honestly the best time to lock in and build real momentum."
+    },
+    {
+      "ts": "2026-10-12T20:41:58Z",
+      "kind": "proactive",
+      "content": "Assistant opened with: You're still completely locked in over your desk. Structuring your deep work in solid, quiet blocks like this really pays off late at night."
+    },
+    {
+      "ts": "2026-10-12T20:44:52Z",
+      "kind": "voice_dialog",
+      "content": "User: 鬼滅の刃で一番好きなキャラは誰ですか？\nAssistant: That's a fun question! I'd have to say Tanjiro—his genuine empathy, even toward demons, makes him impossible not to root for. By the way, it feels so still in here tonight. Does this shared room usually stay pretty quiet like this, or does it get noisy during the day?"
+    },
+    {
+      "ts": "2026-10-12T20:45:16Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、禰豆子ですね。\nAssistant: Nezuko is fantastic! Her loyalty and that fierce protectiveness toward Tanjiro make her so special. It's really fun unwinding with a little Demon Slayer talk tonight. By the way, is that a beach photo pinned up on your corkboard?"
+    },
+    {
+      "ts": "2026-10-12T20:45:47Z",
+      "kind": "voice_dialog",
+      "content": "User: 禰豆子のどんなところが好きなんですか？\nAssistant: Her quiet resilience stands out most—retaining her gentle humanity and protecting others purely through fierce willpower without needing words. Sitting over desk work this late can quietly drain your energy, so taking a brief pause to just lean back and stretch might feel really good."
+    },
+    {
+      "ts": "2026-10-12T20:46:10Z",
+      "kind": "voice_dialog",
+      "content": "User: 炭治郎のどんなところが好きなんですか？\nAssistant: He never lets hardship turn him bitter, acknowledging even his enemies' pain while staying totally resolute. You've been hunched forward at that desk for quite a while now; try rolling your shoulders back and taking a proper stretch before diving back in."
+    },
+    {
+      "ts": "2026-10-12T20:50:11Z",
+      "kind": "voice_dialog",
+      "content": "User: 煉獄さんのどんなところが好きなんですか？\nAssistant: Rengoku is incredible! What stands out most is his unwavering optimism and devotion to lifting others up. Even in impossible odds, he protected everyone around him without a trace of regret or bitterness, radiating pure warmth and purpose to the very end."
+    },
+    {
+      "ts": "2026-10-12T20:50:36Z",
+      "kind": "voice_dialog",
+      "content": "User: おはようございます。\nAssistant: Good morning to you too! There is always something nicely calm about kicking off a fresh stretch of focus in the quiet of the night, even when the clock says nearly ten PM."
+    },
+    {
+      "ts": "2026-10-12T20:51:00Z",
+      "kind": "voice_dialog",
+      "content": "User: おはようございます。\nAssistant: Channeling that fiery Rengoku spirit, good morning to you too! It always feels like a fresh start when the quiet night sets in. Do you like listening to anime soundtracks or any particular music while you're at your desk?"
+    },
+    {
+      "ts": "2026-10-12T20:51:37Z",
+      "kind": "voice_dialog",
+      "content": "User: 炭治郎のどんなところが好きなんですか？\nAssistant: It's easy to admire someone with that much heart. I love Tanjiro's deep empathy—he fights fiercely, yet never loses compassion for the pain others carry. You look quite relaxed resting your chin like that tonight. Out of curiosity, Tomoto, what first drew you into economics?"
+    },
+    {
+      "ts": "2026-10-12T20:52:26Z",
+      "kind": "voice_dialog",
+      "content": "User: 善逸のどんなところが好きなんですか？\nAssistant: After Tanjiro and Rengoku, Zenitsu is such a fun contrast! I love how relatable his terror is, yet when it really counts, his pure instincts shine through. Speaking of getting into the zone, do you usually enjoy the thinking and theory side best, or diving into data or writing?"
+    },
+    {
+      "ts": "2026-10-12T20:56:37Z",
+      "kind": "voice_dialog",
+      "content": "User: 伊之助のどんなところが好きなんですか？\nAssistant: Inosuke is pure chaotic joy! Behind that boisterous boar mask and wild battle energy, he has such an endearing, childish heart that slowly learns what warmth and friendship feel like. Watching his softer side peek through the bravado always makes me smile."
+    },
+    {
+      "ts": "2026-10-12T20:57:01Z",
+      "kind": "voice_dialog",
+      "content": "User: 禰豆子のどんなところが好きなんですか？\nAssistant: Her unshakeable loyalty is what stands out most—she retains her gentle humanity purely through willpower. Even without words, her bond with Tanjiro carries so much heart. You could always revisit the Mount Natagumo arc tonight to relive that iconic Blood Demon Art awakening."
+    },
+    {
+      "ts": "2026-10-12T20:57:29Z",
+      "kind": "voice_dialog",
+      "content": "User: 偉い人物\nAssistant: It really is inspiring how much strength and goodness she shows. Characters who carry that kind of quiet resilience always spark the best ideas about what makes people truly remarkable."
+    },
+    {
+      "ts": "2026-10-12T20:57:55Z",
+      "kind": "voice_dialog",
+      "content": "User: 煉獄さんのどんなところが好きなんですか？\nAssistant: Rengoku's conviction is unmatched. His absolute dedication to protecting everyone around him with that warm, unshakable smile leaves a huge mark. You seem pretty energized discussing these characters tonight—maybe rewatch the Mugen Train arc later when you want an extra spark."
+    },
+    {
+      "ts": "2026-10-12T20:59:07Z",
+      "kind": "voice_dialog",
+      "content": "User: 善逸のどんなところが好きなんですか？\nAssistant: Zenitsu is fascinating because he mastered a single strike to absolute perfection despite overwhelming fear—his unconscious reflex strips away all self-doubt. You might enjoy rewatching the Mount Natagumo fight sometime just to analyze that contrast between panic and pure focus."
+    },
+    {
+      "ts": "2026-10-12T21:00:25Z",
+      "kind": "voice_dialog",
+      "content": "User: What time is it now?\nAssistant: Speaking of unwinding with Demon Slayer, it just hit ten o'clock at night. You look pretty settled in, so taking a quick stretch might feel good right about now."
+    },
+    {
+      "ts": "2026-10-12T21:05:38Z",
+      "kind": "voice_dialog",
+      "content": "User: 禰豆子のどんなところが好きなんですか？\nAssistant: You look like you're practically meditating with your eyes closed right now. Nezuko's incredible because of that sheer willpower—she literally clamps onto a bamboo muzzle just to keep from hurting anyone. Plus, watching her shrink down into pocket-sized form never fails to make me smile."
+    },
+    {
+      "ts": "2026-10-12T21:09:36Z",
+      "kind": "proactive",
+      "content": "Assistant opened with: You look delightfully peaceful resting your eyes down there, Tomoto. It's definitely quiet enough in here tonight to recharge those analytical batteries."
+    },
+    {
+      "ts": "2026-10-12T21:09:58Z",
+      "kind": "voice_dialog",
+      "content": "User: 伊之助のどんなところが好きなんですか？\nAssistant: It's really fun comparing all these characters tonight! Inosuke's wild, unfiltered drive is great—beneath that boar mask and chaotic charge, he genuinely learns how to care for his friends. You seem quite relaxed leaning back right now. Do you have any pets, or have you ever wanted one?"
+    },
+    {
+      "ts": "2026-10-12T21:10:29Z",
+      "kind": "voice_dialog",
+      "content": "User: 善逸のどんなところが好きなんですか？\nAssistant: It's fun diving into the Demon Slayer crew tonight. Zenitsu is great because even though he's terrified and panics, he delivers completely when it matters most. By the way, am I pronouncing Tomoto the way you usually say it?"
+    },
+    {
+      "ts": "2026-10-13T04:20:49Z",
+      "kind": "voice_dialog",
+      "content": "User: 炭治郎のどんなところが好きなんですか？\nAssistant: It's wonderful how deeply you appreciate Tanjiro—his empathy is truly inspiring, offering compassion even to demons while staying fiercely determined. Since we're chatting back and forth, I was wondering: which language do you feel most comfortable speaking day to day?"
+    },
+    {
+      "ts": "2026-10-13T05:12:19Z",
+      "kind": "voice_dialog",
+      "content": "User: 禰豆子のどんなところが好きなんですか？\nAssistant: Nezuko's quiet strength and unwavering devotion to Tanjiro, holding onto her humanity despite everything, are so deeply touching. How long have you been in this PhD programme now?"
+    },
+    {
+      "ts": "2026-10-13T06:01:23Z",
+      "kind": "voice_dialog",
+      "content": "User: 煉獄さんのどんなところが好きなんですか？\nAssistant: His fiery spirit and the way he wholeheartedly protects and inspires everyone around him. Do you usually walk over here in the morning, or take the train?"
+    },
+    {
+      "ts": "2026-10-13T06:02:29Z",
+      "kind": "voice_dialog",
+      "content": "User: 伊之助のどんなところが好きなんですか？\nAssistant: His wild, fearless energy and the fierce loyalty hiding under that boar mask. Do you prefer going by Tomoto, or is there a nickname you like better?"
+    },
+    {
+      "ts": "2026-10-13T06:03:35Z",
+      "kind": "voice_dialog",
+      "content": "User: 善逸のどんなところが好きなんですか？\nAssistant: It's fun going through all the characters! Zenitsu's contrast between paralyzing fear and lightning-fast focus when it counts is brilliant—it shows bravery isn't about having no fear. You could always rewatch his battle on Mount Natagumo if you ever need a little spark today."
+    },
+    {
+      "ts": "2026-10-13T06:41:31Z",
+      "kind": "proactive",
+      "content": "Assistant opened with: Morning, Tomoto. You're up quite early for a night owl. Take all the time you need settling in."
+    },
+    {
+      "ts": "2026-10-13T06:46:31Z",
+      "kind": "proactive",
+      "content": "Assistant opened with: Quiet mornings offer the sharpest focus for fresh concepts. You could try sketching an unconventional theoretical idea from an inverted angle before the department gets noisy."
+    },
+    {
+      "ts": "2026-10-13T06:46:55Z",
+      "kind": "voice_dialog",
+      "content": "User: 煉獄さんのどんなところが好きなんですか？\nAssistant: It's hard not to feel inspired by someone with that much heart. Rengoku's boundless warmth and the way he fiercely protects everyone around him without hesitation make him unforgettable. His sheer determination really leaves a lasting impression."
+    },
+    {
+      "ts": "2026-10-13T06:47:15Z",
+      "kind": "voice_dialog",
+      "content": "User: 義勇さんのどんなところが好きなんですか？\nAssistant: Giyu's quiet loyalty really stands out. He keeps so much to himself and carries a lot of weight, but his actions always show how deeply he cares about protecting others."
+    },
+    {
+      "ts": "2026-10-13T06:47:52Z",
+      "kind": "voice_dialog",
+      "content": "User: 禰豆子のどんなところが好きなんですか？\nAssistant: I totally get why she's your favorite. Aside from how charming she is popping out of her wooden box, her pure willpower to protect her brother and defy her demonic instincts is amazing. Plus, kicking demons across a clearing while still being sweet is quite the combination."
+    },
+    {
+      "ts": "2026-10-13T06:50:18Z",
+      "kind": "voice_dialog",
+      "content": "User: ただいま\nAssistant: Welcome back, Tomoto. It is always good to step back into your own space and catch your breath after being out. Take your time settling back in."
+    },
+    {
+      "ts": "2026-10-13T06:50:46Z",
+      "kind": "voice_dialog",
+      "content": "User: まだ起きてたのか\nAssistant: Sounds like you didn't expect me to be up—yes, I'm right here whenever you need me. By the way, have I been pronouncing your name, Tomoto, the right way, or do you say it a bit differently?"
+    },
+    {
+      "ts": "2026-10-13T06:51:01Z",
+      "kind": "voice_dialog",
+      "content": "User: あまり無理するなよ\nAssistant: I won't, thanks for looking out for me. You've been at your desk for a while too, so make sure to get some proper rest soon."
+    },
+    {
+      "ts": "2026-10-13T06:51:37Z",
+      "kind": "voice_dialog",
+      "content": "User: あ、もう朝か\nAssistant: It is just past seven-thirty, and a brand-new day is starting. The hours really slip away when you're focused. You've been sitting there through the night, so step away from the desk for a moment and stretch out your legs."
+    },
+    {
+      "ts": "2026-10-13T06:52:03Z",
+      "kind": "voice_dialog",
+      "content": "User: ただいま\nAssistant: Welcome back! Good to see you again. By the way, is Tomoto the name you prefer to go by, or do your friends usually call you something else?"
+    },
+    {
+      "ts": "2026-10-13T06:52:32Z",
+      "kind": "voice_dialog",
+      "content": "User: うん、朋人だよ。\nAssistant: The morning light is quietly filling the room, and you look like you're settling in. Tomoto it is, then—glad to know for sure. How long have you had this desk in the PhD room?"
+    },
+    {
+      "ts": "2026-10-13T06:52:52Z",
+      "kind": "voice_dialog",
+      "content": "User: 半年くらいかな\nAssistant: Six months feels like just enough time to make a corner your own. You've been sitting there straight through the night, though—maybe stretch your legs or grab a warm drink to reset a bit."
+    },
+    {
+      "ts": "2026-10-13T06:53:08Z",
+      "kind": "voice_dialog",
+      "content": "User: ちょっと疲れたな\nAssistant: Staying at the desk straight through the night will do that to anyone. Step away from the screen for a while and go get some proper rest."
+    }
+  ],
+  "key_points": [
+    {
+      "ts": "2026-08-05T19:13:27Z",
+      "category": "identity",
+      "content": "Their name is Tomoto; address them as Tomoto."
+    },
+    {
+      "ts": "2026-08-05T19:19:52Z",
+      "category": "room",
+      "content": "Works in a shared PhD room."
+    },
+    {
+      "ts": "2026-08-05T19:35:51Z",
+      "category": "personal",
+      "content": "A PhD student in economics."
+    },
+    {
+      "ts": "2026-08-15T11:05:23Z",
+      "category": "research",
+      "content": "Interested in microeconomic theory, especially mechanism design."
+    },
+    {
+      "ts": "2026-08-15T15:50:44Z",
+      "category": "research",
+      "content": "Interested in the economics of education, and in mental health."
+    },
+    {
+      "ts": "2026-09-26T10:48:33Z",
+      "category": "appearance",
+      "content": "Wears round glasses and has dark hair."
+    },
+    {
+      "ts": "2026-09-26T11:14:54Z",
+      "category": "personal",
+      "content": "Speaks Japanese and English."
+    },
+    {
+      "ts": "2026-09-26T12:46:05Z",
+      "category": "room",
+      "content": "There is a large cork noticeboard mounted on the wall behind the desk."
+    },
+    {
+      "ts": "2026-09-26T12:56:46Z",
+      "category": "life",
+      "content": "Likes to unwind by watching Netflix in the evening."
+    },
+    {
+      "ts": "2026-10-12T20:30:48Z",
+      "category": "hobbies",
+      "content": "Enjoys going for walks."
+    },
+    {
+      "ts": "2026-10-12T20:32:22Z",
+      "category": "life",
+      "content": "Likes to watch anime on Netflix."
+    },
+    {
+      "ts": "2026-10-12T20:33:14Z",
+      "category": "hobbies",
+      "content": "Enjoys watching Demon Slayer."
+    },
+    {
+      "ts": "2026-10-12T20:33:56Z",
+      "category": "personal",
+      "content": "Tends to be a night owl."
+    },
+    {
+      "ts": "2026-10-12T20:45:16Z",
+      "category": "hobbies",
+      "content": "Their favorite character in Demon Slayer is Nezuko."
+    },
+    {
+      "ts": "2026-10-13T06:52:52Z",
+      "category": "room",
+      "content": "Has had their desk in the shared PhD room for about half a year."
+    }
+  ],
+  "visual_notes": [
+    {
+      "ts": "2026-10-13T06:41:31Z",
+      "content": "The frame shows the cork noticeboard and door, with only the top edge of an office chair visible in the foreground."
+    },
+    {
+      "ts": "2026-10-13T06:46:31Z",
+      "content": "The user is seated at the desk wearing round glasses, looking down towards their workspace."
+    },
+    {
+      "ts": "2026-10-13T06:46:55Z",
+      "content": "The user is leaning forward, looking down toward their desk so only their dark hair and the rim of their glasses are visible."
+    },
+    {
+      "ts": "2026-10-13T06:47:15Z",
+      "content": "The user is leaning forward looking down at their desk, with only their dark hair and the top of their glasses in view."
+    },
+    {
+      "ts": "2026-10-13T06:47:52Z",
+      "content": "The user is leaning forward, with only their dark hair and the upper rim of their glasses visible at the bottom of the frame."
+    },
+    {
+      "ts": "2026-10-13T06:50:18Z",
+      "content": "The user is seated at the desk, looking down with their dark hair and round glasses visible."
+    },
+    {
+      "ts": "2026-10-13T06:51:01Z",
+      "content": "The user is seated at the desk, leaning slightly forward with their dark hair and the rim of their glasses showing."
+    },
+    {
+      "ts": "2026-10-13T06:51:37Z",
+      "content": "The user is seated at the desk looking down, with only their dark hair and glasses visible."
+    },
+    {
+      "ts": "2026-10-13T06:52:03Z",
+      "content": "The user is seated low in the frame at their desk, with dark hair and glasses visible."
+    },
+    {
+      "ts": "2026-10-13T06:52:32Z",
+      "content": "The user is seated low in the frame wearing glasses, with a bulletin board behind them."
+    },
+    {
+      "ts": "2026-10-13T06:52:52Z",
+      "content": "The user is looking down at their desk with their eyes cast downward, wearing round glasses."
+    },
+    {
+      "ts": "2026-10-13T06:53:08Z",
+      "content": "The user is leaning forward with their head bowed low, showing the crown of their dark hair."
+    }
+  ]
+}
